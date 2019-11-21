@@ -1,0 +1,10 @@
+[Telegram]
+# no need for quotes
+
+# command arguments
+chat_name = Some chat name
+phone = +999999999999
+limit = 0
+
+# time range year-month-day__hours:minutes__hours:minutes
+time_range = 2019-10-10__08:15__11:15
